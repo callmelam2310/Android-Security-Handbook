@@ -2,4 +2,6 @@
 
 Notes & tra cứu bảo mật Android — từ nền tảng đến khai thác, phân tích malware và forensics.
 
+Enjoy :))
+
 **callmelam2310**
